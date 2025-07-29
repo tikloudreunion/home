@@ -1,4 +1,3 @@
-import React from 'react';
 import { Heart, MapPin, Users, Award } from 'lucide-react';
 
 export default function About() {
@@ -35,7 +34,7 @@ export default function About() {
                   <Users className="h-6 w-6 text-blue-600" />
                 </div>
                 <div>
-                  <h3 className="font-semibold text-gray-900 mb-2">Communauté Étudiante</h3>
+                  <h3 className="font-semibold text-gray-900 mb-2">Communauté étudiante</h3>
                   <p className="text-gray-600">
                     Rejoignez une communauté active d'étudiants développeurs 
                     et partagez vos projets.
@@ -67,12 +66,12 @@ export default function About() {
               
               <div className="space-y-4">
                 <div className="bg-white/20 rounded-lg p-4">
-                  <div className="text-2xl font-bold">500+</div>
+                  <div className="text-2xl font-bold">50+</div>
                   <div className="text-blue-100">Étudiants actifs</div>
                 </div>
                 
                 <div className="bg-white/20 rounded-lg p-4">
-                  <div className="text-2xl font-bold">50+</div>
+                  <div className="text-2xl font-bold">2+</div>
                   <div className="text-blue-100">Établissements partenaires</div>
                 </div>
                 

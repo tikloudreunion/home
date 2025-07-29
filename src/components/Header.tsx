@@ -1,4 +1,3 @@
-import React from 'react';
 import { Cloud, Menu, X } from 'lucide-react';
 
 interface HeaderProps {

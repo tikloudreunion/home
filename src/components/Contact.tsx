@@ -1,4 +1,3 @@
-import React from 'react';
 import { Mail, Phone, MapPin, MessageCircle } from 'lucide-react';
 
 export default function Contact() {
@@ -38,7 +37,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <div className="font-semibold text-gray-900">Téléphone</div>
-                  <div className="text-gray-600">+262 692 XX XX XX</div>
+                  <div className="text-gray-600">+262 692 80 17 30</div>
                 </div>
               </div>
               
@@ -48,87 +47,10 @@ export default function Contact() {
                 </div>
                 <div>
                   <div className="font-semibold text-gray-900">Adresse</div>
-                  <div className="text-gray-600">Saint-Denis, La Réunion 974</div>
-                </div>
-              </div>
-              
-              <div className="flex items-center space-x-4">
-                <div className="bg-purple-100 p-3 rounded-lg">
-                  <MessageCircle className="h-6 w-6 text-purple-600" />
-                </div>
-                <div>
-                  <div className="font-semibold text-gray-900">Chat en direct</div>
-                  <div className="text-gray-600">Disponible 24/7 sur notre site</div>
+                  <div className="text-gray-600">Epitech La Réunion, 184 chemin Pente Sassy, Saint-André, 97440</div>
                 </div>
               </div>
             </div>
-            
-            <div className="mt-8 p-6 bg-blue-50 rounded-lg">
-              <h4 className="font-semibold text-gray-900 mb-2">
-                Support en créole réunionnais
-              </h4>
-              <p className="text-gray-600">
-                Notre équipe parle votre langue ! N'hésitez pas à nous contacter 
-                en créole pour un support plus personnalisé.
-              </p>
-            </div>
-          </div>
-          
-          <div className="bg-white rounded-2xl shadow-lg p-8">
-            <form className="space-y-6">
-              <div>
-                <label className="block text-sm font-medium text-gray-700 mb-2">
-                  Nom complet
-                </label>
-                <input 
-                  type="text" 
-                  className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-600 focus:border-transparent"
-                  placeholder="Votre nom"
-                />
-              </div>
-              
-              <div>
-                <label className="block text-sm font-medium text-gray-700 mb-2">
-                  Email étudiant
-                </label>
-                <input 
-                  type="email" 
-                  className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-600 focus:border-transparent"
-                  placeholder="votre.email@etudiant.univ-reunion.fr"
-                />
-              </div>
-              
-              <div>
-                <label className="block text-sm font-medium text-gray-700 mb-2">
-                  Établissement
-                </label>
-                <select className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-600 focus:border-transparent">
-                  <option>Université de La Réunion</option>
-                  <option>IUT de La Réunion</option>
-                  <option>Lycée Leconte de Lisle</option>
-                  <option>Lycée Roland Garros</option>
-                  <option>Autre</option>
-                </select>
-              </div>
-              
-              <div>
-                <label className="block text-sm font-medium text-gray-700 mb-2">
-                  Message
-                </label>
-                <textarea 
-                  rows={4}
-                  className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-600 focus:border-transparent"
-                  placeholder="Décrivez votre projet ou vos besoins..."
-                ></textarea>
-              </div>
-              
-              <button 
-                type="submit"
-                className="w-full bg-blue-600 text-white py-3 px-6 rounded-lg font-semibold hover:bg-blue-700 transition-colors"
-              >
-                Envoyer le message
-              </button>
-            </form>
           </div>
         </div>
       </div>
