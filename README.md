@@ -85,7 +85,7 @@ Nous contribuons activement à **5+ projets open source** et soutenons l'innovat
 ## 📞 Contact & Support
 
 ### 📧 Nous Contacter
-- **Email** : contact@tikloud-reunion.re
+- **Email** : clement-antoine.xavier@epitech.eu
 - **Téléphone** : +262 692 80 17 30
 - **Adresse** : Epitech La Réunion, 184 chemin Pente Sassy, Saint-André, 97440
 
@@ -138,5 +138,5 @@ Merci à tous les étudiants réunionnais qui nous font confiance et à la commu
   <p><strong>Ti Kloud Réunion</strong> - Le cloud local pour les étudiants réunionnais</p>
   <p>Innovons ensemble depuis l'île intense ! 🏝️</p>
   
-  [🌐 Site Web](https://tikloud-reunion.re) • [📧 Contact](mailto:contact@tikloud-reunion.re) • [📚 Documentation](https://docs.tikloud-reunion.re)
+  [🌐 Site Web](https://tikloud-reunion.re) • [📧 Contact](mailto:clement-antoine.xavier@epitech.eu) • [📚 Documentation](https://docs.tikloud-reunion.re)
 </div>
